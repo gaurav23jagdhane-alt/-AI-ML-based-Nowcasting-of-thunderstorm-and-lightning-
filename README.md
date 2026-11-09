@@ -1,6 +1,8 @@
 # SIH 2026 : ByteCraft_FC
 
-This repository is maintained by the SIH team **ByteCraft_FC** representing the Computer Science Department, Fergusson College (Autonomous), Pune. 
+This repository is maintained by the SIH team **ByteCraft_FC** representing the Computer Science Department, Fergusson College (Autonomous), Pune.
+
+LIVE DEMO : https://stormsight-ai-nowcasting.ai.studio
 
 # Hackathon - ByteCraft
 This repository contains the approach, design and possible solutions for the Smart India Hackathon 2026 - Problem Statement - SIH26072.
